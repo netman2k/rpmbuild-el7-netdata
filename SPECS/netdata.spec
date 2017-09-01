@@ -15,7 +15,7 @@
 
 Name:    netdata
 Version: 1.7.0
-Release: 1%{?dist}
+Release: %{release}%{?dist}
 Summary: Real-time performance monitoring, done right
 License: GPLv3+
 Group:   Applications/System
